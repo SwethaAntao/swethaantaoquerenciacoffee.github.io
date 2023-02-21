@@ -1,0 +1,146 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.zone{
+	cursor: pointer;
+/*	display: inline-block;*/
+	color: #fff;
+	font-size: 2em;
+	border: 1px solid #bbb;
+	transition: all 0.3s linear;
+
+}
+
+ 
+ .brown{ background-color: #80503D }
+
+
+.logoname{
+	text-align: center;
+}
+/*<!--NAVBAR -->*/
+.main-nav{
+	display: flex;
+	list-style: none;
+	font-size: 0.7em;
+	margin: 0;
+
+}
+
+
+
+@media only screen and (max-width:600px) {
+.main-nav{
+	font-size: 0.5em;
+	padding: 0;
+}
+
+
+}
+
+
+
+
+
+
+
+.push{
+	margin-left: auto;
+}
+
+li{
+	padding: 10px;
+
+
+}
+
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+    
+.container{
+	background-color:#80503D ;
+	margin-block: 50px;
+}
+
+.text{
+	text-align: center;
+}
+
+.firsttest{
+	font-size: 24px;
+	font-family: mukta;
+	color: #000000;
+	font-weight: bold;
+}
+
+.secondtest{
+	font-size: 11px;
+	font-family:roboto				;
+	color:#DDA993;
+	font-weight: bold;
+}
+
+.thridtest{
+	font-size: 11px;
+	font-family: poppins;
+	color:#ffffff;
+	font-weight: lighter;
+}
+
+
+.Rbean{
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+}
+.splashcoffee{
+	padding: 50px 0px 5-px 0px;
+}
+
+.btn{
+	font-size: 14px;
+	border-radius: 300px;
+}
+
+
+.btn-xl{
+	padding: 1rem 1rem;
+	margin: 18px 2px 18px 2px;
+
+}
+
+
+.btn-primary{
+	background-color: #0D0382;
+	border-color: white;
+}
+
+.AUC{
+	font-size: 1rem;
+	justify-content: center;
+}
+
+.btnn{
+font-size: 14px;
+	border-radius: 300px;
+}
+
+.btn-sub{padding: 1rem 1rem;
+	margin: 18px 2px 18px 2px;}
+
+.btn-secondary{
+	background-color: #0D0382;
+	border-color: white;
+	color: white;
+}
